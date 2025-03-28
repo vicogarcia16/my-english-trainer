@@ -1,0 +1,627 @@
+[
+    {
+        "english": "hello",
+        "spanish": "hola",
+        "learned": true
+    },
+    {
+        "english": "goodbye",
+        "spanish": "adiós",
+        "learned": false
+    },
+    {
+        "english": "please",
+        "spanish": "por favor",
+        "learned": true
+    },
+    {
+        "english": "thank you",
+        "spanish": "gracias",
+        "learned": false
+    },
+    {
+        "english": "sorry",
+        "spanish": "lo siento",
+        "learned": false
+    },
+    {
+        "english": "yes",
+        "spanish": "sí",
+        "learned": false
+    },
+    {
+        "english": "no",
+        "spanish": "no",
+        "learned": false
+    },
+    {
+        "english": "maybe",
+        "spanish": "quizás",
+        "learned": false
+    },
+    {
+        "english": "excuse me",
+        "spanish": "disculpe",
+        "learned": false
+    },
+    {
+        "english": "help",
+        "spanish": "ayuda",
+        "learned": false
+    },
+    {
+        "english": "water",
+        "spanish": "agua",
+        "learned": false
+    },
+    {
+        "english": "food",
+        "spanish": "comida",
+        "learned": false
+    },
+    {
+        "english": "money",
+        "spanish": "dinero",
+        "learned": false
+    },
+    {
+        "english": "love",
+        "spanish": "amor",
+        "learned": false
+    },
+    {
+        "english": "friend",
+        "spanish": "amigo",
+        "learned": false
+    },
+    {
+        "english": "family",
+        "spanish": "familia",
+        "learned": false
+    },
+    {
+        "english": "house",
+        "spanish": "casa",
+        "learned": false
+    },
+    {
+        "english": "car",
+        "spanish": "coche",
+        "learned": true
+    },
+    {
+        "english": "bus",
+        "spanish": "autobús",
+        "learned": false
+    },
+    {
+        "english": "train",
+        "spanish": "tren",
+        "learned": false
+    },
+    {
+        "english": "airport",
+        "spanish": "aeropuerto",
+        "learned": false
+    },
+    {
+        "english": "hotel",
+        "spanish": "hotel",
+        "learned": false
+    },
+    {
+        "english": "bathroom",
+        "spanish": "baño",
+        "learned": false
+    },
+    {
+        "english": "restaurant",
+        "spanish": "restaurante",
+        "learned": false
+    },
+    {
+        "english": "breakfast",
+        "spanish": "desayuno",
+        "learned": false
+    },
+    {
+        "english": "lunch",
+        "spanish": "almuerzo",
+        "learned": false
+    },
+    {
+        "english": "dinner",
+        "spanish": "cena",
+        "learned": false
+    },
+    {
+        "english": "coffee",
+        "spanish": "café",
+        "learned": false
+    },
+    {
+        "english": "tea",
+        "spanish": "té",
+        "learned": false
+    },
+    {
+        "english": "beer",
+        "spanish": "cerveza",
+        "learned": true
+    },
+    {
+        "english": "wine",
+        "spanish": "vino",
+        "learned": false
+    },
+    {
+        "english": "milk",
+        "spanish": "leche",
+        "learned": false
+    },
+    {
+        "english": "bread",
+        "spanish": "pan",
+        "learned": false
+    },
+    {
+        "english": "chicken",
+        "spanish": "pollo",
+        "learned": true
+    },
+    {
+        "english": "fish",
+        "spanish": "pescado",
+        "learned": false
+    },
+    {
+        "english": "meat",
+        "spanish": "carne",
+        "learned": false
+    },
+    {
+        "english": "fruit",
+        "spanish": "fruta",
+        "learned": false
+    },
+    {
+        "english": "vegetable",
+        "spanish": "verdura",
+        "learned": true
+    },
+    {
+        "english": "apple",
+        "spanish": "manzana",
+        "learned": false
+    },
+    {
+        "english": "banana",
+        "spanish": "plátano",
+        "learned": false
+    },
+    {
+        "english": "orange",
+        "spanish": "naranja",
+        "learned": false
+    },
+    {
+        "english": "grape",
+        "spanish": "uva",
+        "learned": false
+    },
+    {
+        "english": "strawberry",
+        "spanish": "fresa",
+        "learned": false
+    },
+    {
+        "english": "computer",
+        "spanish": "computadora",
+        "learned": true
+    },
+    {
+        "english": "phone",
+        "spanish": "teléfono",
+        "learned": false
+    },
+    {
+        "english": "internet",
+        "spanish": "internet",
+        "learned": false
+    },
+    {
+        "english": "password",
+        "spanish": "contraseña",
+        "learned": false
+    },
+    {
+        "english": "email",
+        "spanish": "correo electrónico",
+        "learned": false
+    },
+    {
+        "english": "doctor",
+        "spanish": "doctor",
+        "learned": false
+    },
+    {
+        "english": "hospital",
+        "spanish": "hospital",
+        "learned": false
+    },
+    {
+        "english": "medicine",
+        "spanish": "medicina",
+        "learned": false
+    },
+    {
+        "english": "emergency",
+        "spanish": "emergencia",
+        "learned": false
+    },
+    {
+        "english": "police",
+        "spanish": "policía",
+        "learned": false
+    },
+    {
+        "english": "firefighter",
+        "spanish": "bombero",
+        "learned": false
+    },
+    {
+        "english": "teacher",
+        "spanish": "maestro",
+        "learned": false
+    },
+    {
+        "english": "student",
+        "spanish": "estudiante",
+        "learned": false
+    },
+    {
+        "english": "school",
+        "spanish": "escuela",
+        "learned": false
+    },
+    {
+        "english": "university",
+        "spanish": "universidad",
+        "learned": false
+    },
+    {
+        "english": "work",
+        "spanish": "trabajo",
+        "learned": false
+    },
+    {
+        "english": "job",
+        "spanish": "empleo",
+        "learned": false
+    },
+    {
+        "english": "price",
+        "spanish": "precio",
+        "learned": false
+    },
+    {
+        "english": "open",
+        "spanish": "abierto",
+        "learned": false
+    },
+    {
+        "english": "closed",
+        "spanish": "cerrado",
+        "learned": true
+    },
+    {
+        "english": "left",
+        "spanish": "izquierda",
+        "learned": false
+    },
+    {
+        "english": "right",
+        "spanish": "derecha",
+        "learned": false
+    },
+    {
+        "english": "stop",
+        "spanish": "alto",
+        "learned": false
+    },
+    {
+        "english": "go",
+        "spanish": "ir",
+        "learned": false
+    },
+    {
+        "english": "come",
+        "spanish": "venir",
+        "learned": false
+    },
+    {
+        "english": "leave",
+        "spanish": "salir",
+        "learned": false
+    },
+    {
+        "english": "wait",
+        "spanish": "esperar",
+        "learned": false
+    },
+    {
+        "english": "fast",
+        "spanish": "rápido",
+        "learned": false
+    },
+    {
+        "english": "slow",
+        "spanish": "lento",
+        "learned": false
+    },
+    {
+        "english": "big",
+        "spanish": "grande",
+        "learned": false
+    },
+    {
+        "english": "small",
+        "spanish": "pequeño",
+        "learned": false
+    },
+    {
+        "english": "hot",
+        "spanish": "caliente",
+        "learned": false
+    },
+    {
+        "english": "cold",
+        "spanish": "frío",
+        "learned": false
+    },
+    {
+        "english": "new",
+        "spanish": "nuevo",
+        "learned": false
+    },
+    {
+        "english": "old",
+        "spanish": "viejo",
+        "learned": false
+    },
+    {
+        "english": "happy",
+        "spanish": "feliz",
+        "learned": false
+    },
+    {
+        "english": "sad",
+        "spanish": "triste",
+        "learned": false
+    },
+    {
+        "english": "angry",
+        "spanish": "enojado",
+        "learned": false
+    },
+    {
+        "english": "tired",
+        "spanish": "cansado",
+        "learned": false
+    },
+    {
+        "english": "morning",
+        "spanish": "mañana",
+        "learned": false
+    },
+    {
+        "english": "afternoon",
+        "spanish": "tarde",
+        "learned": false
+    },
+    {
+        "english": "night",
+        "spanish": "noche",
+        "learned": false
+    },
+    {
+        "english": "yesterday",
+        "spanish": "ayer",
+        "learned": true
+    },
+    {
+        "english": "today",
+        "spanish": "hoy",
+        "learned": false
+    },
+    {
+        "english": "tomorrow",
+        "spanish": "mañana",
+        "learned": false
+    },
+    {
+        "english": "mother",
+        "spanish": "madre",
+        "learned": false
+    },
+    {
+        "english": "father",
+        "spanish": "padre",
+        "learned": false
+    },
+    {
+        "english": "brother",
+        "spanish": "hermano",
+        "learned": false
+    },
+    {
+        "english": "sister",
+        "spanish": "hermana",
+        "learned": false
+    },
+    {
+        "english": "child",
+        "spanish": "niño",
+        "learned": true
+    },
+    {
+        "english": "man",
+        "spanish": "hombre",
+        "learned": false
+    },
+    {
+        "english": "woman",
+        "spanish": "mujer",
+        "learned": false
+    },
+    {
+        "english": "boy",
+        "spanish": "niño",
+        "learned": false
+    },
+    {
+        "english": "girl",
+        "spanish": "niña",
+        "learned": false
+    },
+    {
+        "english": "dog",
+        "spanish": "perro",
+        "learned": false
+    },
+    {
+        "english": "cat",
+        "spanish": "gato",
+        "learned": false
+    },
+    {
+        "english": "sun",
+        "spanish": "sol",
+        "learned": false
+    },
+    {
+        "english": "moon",
+        "spanish": "luna",
+        "learned": false
+    },
+    {
+        "english": "star",
+        "spanish": "estrella",
+        "learned": false
+    },
+    {
+        "english": "city",
+        "spanish": "ciudad",
+        "learned": false
+    },
+    {
+        "english": "town",
+        "spanish": "pueblo",
+        "learned": true
+    },
+    {
+        "english": "village",
+        "spanish": "aldea",
+        "learned": false
+    },
+    {
+        "english": "road",
+        "spanish": "carretera",
+        "learned": false
+    },
+    {
+        "english": "street",
+        "spanish": "calle",
+        "learned": false
+    },
+    {
+        "english": "mountain",
+        "spanish": "montaña",
+        "learned": false
+    },
+    {
+        "english": "beach",
+        "spanish": "playa",
+        "learned": false
+    },
+    {
+        "english": "river",
+        "spanish": "río",
+        "learned": false
+    },
+    {
+        "english": "lake",
+        "spanish": "lago",
+        "learned": false
+    },
+    {
+        "english": "forest",
+        "spanish": "bosque",
+        "learned": false
+    },
+    {
+        "english": "sky",
+        "spanish": "cielo",
+        "learned": false
+    },
+    {
+        "english": "cloud",
+        "spanish": "nube",
+        "learned": false
+    },
+    {
+        "english": "rain",
+        "spanish": "lluvia",
+        "learned": false
+    },
+    {
+        "english": "snow",
+        "spanish": "nieve",
+        "learned": false
+    },
+    {
+        "english": "wind",
+        "spanish": "viento",
+        "learned": true
+    },
+    {
+        "english": "storm",
+        "spanish": "tormenta",
+        "learned": true
+    },
+    {
+        "english": "fire",
+        "spanish": "fuego",
+        "learned": false
+    },
+    {
+        "english": "ice",
+        "spanish": "hielo",
+        "learned": false
+    },
+    {
+        "english": "sand",
+        "spanish": "arena",
+        "learned": false
+    },
+    {
+        "english": "rock",
+        "spanish": "roca",
+        "learned": true
+    },
+    {
+        "english": "tree",
+        "spanish": "árbol",
+        "learned": false
+    },
+    {
+        "english": "flower",
+        "spanish": "flor",
+        "learned": false
+    },
+    {
+        "english": "bird",
+        "spanish": "pajarito",
+        "learned": false
+    }
+]
