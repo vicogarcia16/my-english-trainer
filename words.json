@@ -1,627 +1,501 @@
 [
-    {
-        "english": "hello",
-        "spanish": "hola",
-        "learned": true
-    },
-    {
-        "english": "goodbye",
-        "spanish": "adiós",
-        "learned": false
-    },
-    {
-        "english": "please",
-        "spanish": "por favor",
-        "learned": true
-    },
-    {
-        "english": "thank you",
-        "spanish": "gracias",
-        "learned": false
-    },
-    {
-        "english": "sorry",
-        "spanish": "lo siento",
-        "learned": false
-    },
-    {
-        "english": "yes",
-        "spanish": "sí",
-        "learned": false
-    },
-    {
-        "english": "no",
-        "spanish": "no",
-        "learned": false
-    },
-    {
-        "english": "maybe",
-        "spanish": "quizás",
-        "learned": false
-    },
-    {
-        "english": "excuse me",
-        "spanish": "disculpe",
-        "learned": false
-    },
-    {
-        "english": "help",
-        "spanish": "ayuda",
-        "learned": false
-    },
-    {
-        "english": "water",
-        "spanish": "agua",
-        "learned": false
-    },
-    {
-        "english": "food",
-        "spanish": "comida",
-        "learned": false
-    },
-    {
-        "english": "money",
-        "spanish": "dinero",
-        "learned": false
-    },
-    {
-        "english": "love",
-        "spanish": "amor",
-        "learned": false
-    },
-    {
-        "english": "friend",
-        "spanish": "amigo",
-        "learned": false
-    },
-    {
-        "english": "family",
-        "spanish": "familia",
-        "learned": false
-    },
-    {
-        "english": "house",
-        "spanish": "casa",
-        "learned": false
-    },
-    {
-        "english": "car",
-        "spanish": "coche",
-        "learned": true
-    },
-    {
-        "english": "bus",
-        "spanish": "autobús",
-        "learned": false
-    },
-    {
-        "english": "train",
-        "spanish": "tren",
-        "learned": false
-    },
-    {
-        "english": "airport",
-        "spanish": "aeropuerto",
-        "learned": false
-    },
-    {
-        "english": "hotel",
-        "spanish": "hotel",
-        "learned": false
-    },
-    {
-        "english": "bathroom",
-        "spanish": "baño",
-        "learned": false
-    },
-    {
-        "english": "restaurant",
-        "spanish": "restaurante",
-        "learned": false
-    },
-    {
-        "english": "breakfast",
-        "spanish": "desayuno",
-        "learned": false
-    },
-    {
-        "english": "lunch",
-        "spanish": "almuerzo",
-        "learned": false
-    },
-    {
-        "english": "dinner",
-        "spanish": "cena",
-        "learned": false
-    },
-    {
-        "english": "coffee",
-        "spanish": "café",
-        "learned": false
-    },
-    {
-        "english": "tea",
-        "spanish": "té",
-        "learned": false
-    },
-    {
-        "english": "beer",
-        "spanish": "cerveza",
-        "learned": true
-    },
-    {
-        "english": "wine",
-        "spanish": "vino",
-        "learned": false
-    },
-    {
-        "english": "milk",
-        "spanish": "leche",
-        "learned": false
-    },
-    {
-        "english": "bread",
-        "spanish": "pan",
-        "learned": false
-    },
-    {
-        "english": "chicken",
-        "spanish": "pollo",
-        "learned": true
-    },
-    {
-        "english": "fish",
-        "spanish": "pescado",
-        "learned": false
-    },
-    {
-        "english": "meat",
-        "spanish": "carne",
-        "learned": false
-    },
-    {
-        "english": "fruit",
-        "spanish": "fruta",
-        "learned": false
-    },
-    {
-        "english": "vegetable",
-        "spanish": "verdura",
-        "learned": true
-    },
-    {
-        "english": "apple",
-        "spanish": "manzana",
-        "learned": false
-    },
-    {
-        "english": "banana",
-        "spanish": "plátano",
-        "learned": false
-    },
-    {
-        "english": "orange",
-        "spanish": "naranja",
-        "learned": false
-    },
-    {
-        "english": "grape",
-        "spanish": "uva",
-        "learned": false
-    },
-    {
-        "english": "strawberry",
-        "spanish": "fresa",
-        "learned": false
-    },
-    {
-        "english": "computer",
-        "spanish": "computadora",
-        "learned": true
-    },
-    {
-        "english": "phone",
-        "spanish": "teléfono",
-        "learned": false
-    },
-    {
-        "english": "internet",
-        "spanish": "internet",
-        "learned": false
-    },
-    {
-        "english": "password",
-        "spanish": "contraseña",
-        "learned": false
-    },
-    {
-        "english": "email",
-        "spanish": "correo electrónico",
-        "learned": false
-    },
-    {
-        "english": "doctor",
-        "spanish": "doctor",
-        "learned": false
-    },
-    {
-        "english": "hospital",
-        "spanish": "hospital",
-        "learned": false
-    },
-    {
-        "english": "medicine",
-        "spanish": "medicina",
-        "learned": false
-    },
-    {
-        "english": "emergency",
-        "spanish": "emergencia",
-        "learned": false
-    },
-    {
-        "english": "police",
-        "spanish": "policía",
-        "learned": false
-    },
-    {
-        "english": "firefighter",
-        "spanish": "bombero",
-        "learned": false
-    },
-    {
-        "english": "teacher",
-        "spanish": "maestro",
-        "learned": false
-    },
-    {
-        "english": "student",
-        "spanish": "estudiante",
-        "learned": false
-    },
-    {
-        "english": "school",
-        "spanish": "escuela",
-        "learned": false
-    },
-    {
-        "english": "university",
-        "spanish": "universidad",
-        "learned": false
-    },
-    {
-        "english": "work",
-        "spanish": "trabajo",
-        "learned": false
-    },
-    {
-        "english": "job",
-        "spanish": "empleo",
-        "learned": false
-    },
-    {
-        "english": "price",
-        "spanish": "precio",
-        "learned": false
-    },
-    {
-        "english": "open",
-        "spanish": "abierto",
-        "learned": false
-    },
-    {
-        "english": "closed",
-        "spanish": "cerrado",
-        "learned": true
-    },
-    {
-        "english": "left",
-        "spanish": "izquierda",
-        "learned": false
-    },
-    {
-        "english": "right",
-        "spanish": "derecha",
-        "learned": false
-    },
-    {
-        "english": "stop",
-        "spanish": "alto",
-        "learned": false
-    },
-    {
-        "english": "go",
-        "spanish": "ir",
-        "learned": false
-    },
-    {
-        "english": "come",
-        "spanish": "venir",
-        "learned": false
-    },
-    {
-        "english": "leave",
-        "spanish": "salir",
-        "learned": false
-    },
-    {
-        "english": "wait",
-        "spanish": "esperar",
-        "learned": false
-    },
-    {
-        "english": "fast",
-        "spanish": "rápido",
-        "learned": false
-    },
-    {
-        "english": "slow",
-        "spanish": "lento",
-        "learned": false
-    },
-    {
-        "english": "big",
-        "spanish": "grande",
-        "learned": false
-    },
-    {
-        "english": "small",
-        "spanish": "pequeño",
-        "learned": false
-    },
-    {
-        "english": "hot",
-        "spanish": "caliente",
-        "learned": false
-    },
-    {
-        "english": "cold",
-        "spanish": "frío",
-        "learned": false
-    },
-    {
-        "english": "new",
-        "spanish": "nuevo",
-        "learned": false
-    },
-    {
-        "english": "old",
-        "spanish": "viejo",
-        "learned": false
-    },
-    {
-        "english": "happy",
-        "spanish": "feliz",
-        "learned": false
-    },
-    {
-        "english": "sad",
-        "spanish": "triste",
-        "learned": false
-    },
-    {
-        "english": "angry",
-        "spanish": "enojado",
-        "learned": false
-    },
-    {
-        "english": "tired",
-        "spanish": "cansado",
-        "learned": false
-    },
-    {
-        "english": "morning",
-        "spanish": "mañana",
-        "learned": false
-    },
-    {
-        "english": "afternoon",
-        "spanish": "tarde",
-        "learned": false
-    },
-    {
-        "english": "night",
-        "spanish": "noche",
-        "learned": false
-    },
-    {
-        "english": "yesterday",
-        "spanish": "ayer",
-        "learned": true
-    },
-    {
-        "english": "today",
-        "spanish": "hoy",
-        "learned": false
-    },
-    {
-        "english": "tomorrow",
-        "spanish": "mañana",
-        "learned": false
-    },
-    {
-        "english": "mother",
-        "spanish": "madre",
-        "learned": false
-    },
-    {
-        "english": "father",
-        "spanish": "padre",
-        "learned": false
-    },
-    {
-        "english": "brother",
-        "spanish": "hermano",
-        "learned": false
-    },
-    {
-        "english": "sister",
-        "spanish": "hermana",
-        "learned": false
-    },
-    {
-        "english": "child",
-        "spanish": "niño",
-        "learned": true
-    },
-    {
-        "english": "man",
-        "spanish": "hombre",
-        "learned": false
-    },
-    {
-        "english": "woman",
-        "spanish": "mujer",
-        "learned": false
-    },
-    {
-        "english": "boy",
-        "spanish": "niño",
-        "learned": false
-    },
-    {
-        "english": "girl",
-        "spanish": "niña",
-        "learned": false
-    },
-    {
-        "english": "dog",
-        "spanish": "perro",
-        "learned": false
-    },
-    {
-        "english": "cat",
-        "spanish": "gato",
-        "learned": false
-    },
-    {
-        "english": "sun",
-        "spanish": "sol",
-        "learned": false
-    },
-    {
-        "english": "moon",
-        "spanish": "luna",
-        "learned": false
-    },
-    {
-        "english": "star",
-        "spanish": "estrella",
-        "learned": false
-    },
-    {
-        "english": "city",
-        "spanish": "ciudad",
-        "learned": false
-    },
-    {
-        "english": "town",
-        "spanish": "pueblo",
-        "learned": true
-    },
-    {
-        "english": "village",
-        "spanish": "aldea",
-        "learned": false
-    },
-    {
-        "english": "road",
-        "spanish": "carretera",
-        "learned": false
-    },
-    {
-        "english": "street",
-        "spanish": "calle",
-        "learned": false
-    },
-    {
-        "english": "mountain",
-        "spanish": "montaña",
-        "learned": false
-    },
-    {
-        "english": "beach",
-        "spanish": "playa",
-        "learned": false
-    },
-    {
-        "english": "river",
-        "spanish": "río",
-        "learned": false
-    },
-    {
-        "english": "lake",
-        "spanish": "lago",
-        "learned": false
-    },
-    {
-        "english": "forest",
-        "spanish": "bosque",
-        "learned": false
-    },
-    {
-        "english": "sky",
-        "spanish": "cielo",
-        "learned": false
-    },
-    {
-        "english": "cloud",
-        "spanish": "nube",
-        "learned": false
-    },
-    {
-        "english": "rain",
-        "spanish": "lluvia",
-        "learned": false
-    },
-    {
-        "english": "snow",
-        "spanish": "nieve",
-        "learned": false
-    },
-    {
-        "english": "wind",
-        "spanish": "viento",
-        "learned": true
-    },
-    {
-        "english": "storm",
-        "spanish": "tormenta",
-        "learned": true
-    },
-    {
-        "english": "fire",
-        "spanish": "fuego",
-        "learned": false
-    },
-    {
-        "english": "ice",
-        "spanish": "hielo",
-        "learned": false
-    },
-    {
-        "english": "sand",
-        "spanish": "arena",
-        "learned": false
-    },
-    {
-        "english": "rock",
-        "spanish": "roca",
-        "learned": true
-    },
-    {
-        "english": "tree",
-        "spanish": "árbol",
-        "learned": false
-    },
-    {
-        "english": "flower",
-        "spanish": "flor",
-        "learned": false
-    },
-    {
-        "english": "bird",
-        "spanish": "pajarito",
-        "learned": false
-    }
+    {"english": "hi", "spanish": "hola", "learned": false},
+    {"english": "hey", "spanish": "oye", "learned": false},
+    {"english": "how are you?", "spanish": "¿cómo estás?", "learned": false},
+    {"english": "I'm fine", "spanish": "estoy bien", "learned": false},
+    {"english": "what's up?", "spanish": "¿qué pasa?", "learned": false},
+    {"english": "not much", "spanish": "nada mucho", "learned": false},
+    {"english": "long time no see", "spanish": "hace tiempo que no te veo", "learned": false},
+    {"english": "nice to meet you", "spanish": "mucho gusto", "learned": false},
+    {"english": "see you later", "spanish": "nos vemos luego", "learned": false},
+    {"english": "take care", "spanish": "cuídate", "learned": false},
+    {"english": "have a good day", "spanish": "que tengas un buen día", "learned": false},
+    {"english": "you too", "spanish": "igualmente", "learned": false},
+    {"english": "what do you mean?", "spanish": "¿qué quieres decir?", "learned": false},
+    {"english": "I don't know", "spanish": "no sé", "learned": false},
+    {"english": "I think so", "spanish": "creo que sí", "learned": false},
+    {"english": "I guess", "spanish": "supongo", "learned": false},
+    {"english": "for sure", "spanish": "seguro", "learned": false},
+    {"english": "no problem", "spanish": "no hay problema", "learned": false},
+    {"english": "it depends", "spanish": "depende", "learned": false},
+    {"english": "whatever", "spanish": "lo que sea", "learned": false},
+    {"english": "I agree", "spanish": "estoy de acuerdo", "learned": false},
+    {"english": "I disagree", "spanish": "no estoy de acuerdo", "learned": false},
+    {"english": "that's true", "spanish": "eso es cierto", "learned": false},
+    {"english": "exactly", "spanish": "exactamente", "learned": false},
+    {"english": "sort of", "spanish": "más o menos", "learned": false},
+    {"english": "kind of", "spanish": "un poco", "learned": false},
+    {"english": "by the way", "spanish": "a propósito", "learned": false},
+    {"english": "in fact", "spanish": "de hecho", "learned": false},
+    {"english": "actually", "spanish": "en realidad", "learned": false},
+    {"english": "obviously", "spanish": "obviamente", "learned": false},
+    {"english": "basically", "spanish": "básicamente", "learned": false},
+    {"english": "anyway", "spanish": "de todas formas", "learned": false},
+    {"english": "at least", "spanish": "al menos", "learned": false},
+    {"english": "for example", "spanish": "por ejemplo", "learned": false},
+    {"english": "such as", "spanish": "como por ejemplo", "learned": false},
+    {"english": "in other words", "spanish": "en otras palabras", "learned": false},
+    {"english": "on the other hand", "spanish": "por otro lado", "learned": false},
+    {"english": "to be honest", "spanish": "para ser honesto", "learned": false},
+    {"english": "in my opinion", "spanish": "en mi opinión", "learned": false},
+    {"english": "as far as I know", "spanish": "hasta donde yo sé", "learned": false},
+    {"english": "I'm just kidding", "spanish": "solo estoy bromeando", "learned": false},
+    {"english": "just in case", "spanish": "solo por si acaso", "learned": false},
+    {"english": "out of nowhere", "spanish": "de la nada", "learned": false},
+    {"english": "all of a sudden", "spanish": "de repente", "learned": false},
+    {"english": "once in a while", "spanish": "de vez en cuando", "learned": false},
+    {"english": "sooner or later", "spanish": "tarde o temprano", "learned": false},
+    {"english": "over and over", "spanish": "una y otra vez", "learned": false},
+    {"english": "step by step", "spanish": "paso a paso", "learned": false},
+    {"english": "face to face", "spanish": "cara a cara", "learned": false},
+    {"english": "side by side", "spanish": "uno al lado del otro", "learned": false},
+    {"english": "back to back", "spanish": "uno detrás del otro", "learned": false},
+    {"english": "up and down", "spanish": "arriba y abajo", "learned": false},
+    {"english": "right away", "spanish": "inmediatamente", "learned": false},
+    {"english": "from scratch", "spanish": "desde cero", "learned": false},
+    {"english": "by heart", "spanish": "de memoria", "learned": false},
+    {"english": "little by little", "spanish": "poco a poco", "learned": false},
+    {"english": "now and then", "spanish": "de vez en cuando", "learned": false},
+    {"english": "so far", "spanish": "hasta ahora", "learned": false},
+    {"english": "as soon as possible", "spanish": "tan pronto como sea posible", "learned": false},
+    {"english": "in the meantime", "spanish": "mientras tanto", "learned": false},
+    {"english": "at the end of the day", "spanish": "al final del día", "learned": false},
+    {"english": "to make a long story short", "spanish": "para resumir", "learned": false},
+    {"english": "last but not least", "spanish": "por último pero no menos importante", "learned": false},
+    {"english": "piece of cake", "spanish": "pan comido", "learned": false},
+    {"english": "break the ice", "spanish": "romper el hielo", "learned": false},
+    {"english": "hit the nail on the head", "spanish": "dar en el clavo", "learned": false},
+    {"english": "let the cat out of the bag", "spanish": "revelar un secreto", "learned": false},
+    {"english": "spill the beans", "spanish": "contar algo que no debías", "learned": false},
+    {"english": "cost an arm and a leg", "spanish": "costar un ojo de la cara", "learned": false},
+    {"english": "burn the midnight oil", "spanish": "trabajar hasta tarde", "learned": false},
+    {"english": "kill two birds with one stone", "spanish": "matar dos pájaros de un tiro", "learned": false},
+    {"english": "the ball is in your court", "spanish": "te toca a ti decidir", "learned": false},
+    {"english": "beat around the bush", "spanish": "andarse por las ramas", "learned": false},
+    {"english": "call it a day", "spanish": "terminar por hoy", "learned": false},
+    {"english": "cut to the chase", "spanish": "ir al grano", "learned": false},
+    {"english": "get the ball rolling", "spanish": "empezar algo", "learned": false},
+    {"english": "hang in there", "spanish": "aguanta", "learned": false},
+    {"english": "hit the sack", "spanish": "irse a dormir", "learned": false},
+    {"english": "lose track of time", "spanish": "perder la noción del tiempo", "learned": false},
+    {"english": "on cloud nine", "spanish": "en la gloria", "learned": false},
+    {"english": "pull someone's leg", "spanish": "tomarle el pelo a alguien", "learned": false},
+    {"english": "under the weather", "spanish": "indispuesto", "learned": false},
+    {"english": "wrap your head around something", "spanish": "entender algo complicado", "learned": false},
+    {"english": "zoom in", "spanish": "acercar", "learned": false},
+    {"english": "zoom out", "spanish": "alejar", "learned": false},
+    {"english": "catch up", "spanish": "ponerse al día", "learned": false},
+    {"english": "run out of", "spanish": "quedarse sin", "learned": false},
+    {"english": "look forward to", "spanish": "esperar con ganas", "learned": false},
+    {"english": "fall asleep", "spanish": "quedarse dormido", "learned": false},
+    {"english": "wake up", "spanish": "despertarse", "learned": false},
+    {"english": "get up", "spanish": "levantarse", "learned": false},
+    {"english": "lie down", "spanish": "acostarse", "learned": false},
+    {"english": "sit down", "spanish": "sentarse", "learned": false},
+    {"english": "stand up", "spanish": "pararse", "learned": false},
+    {"english": "turn around", "spanish": "girar", "learned": false},
+    {"english": "pick up", "spanish": "recoger", "learned": false},
+    {"english": "put down", "spanish": "poner abajo", "learned": false},
+    {"english": "take off", "spanish": "despegar / quitarse", "learned": false},
+    {"english": "put on", "spanish": "ponerse (ropa)", "learned": false},
+    {"english": "give up", "spanish": "rendirse", "learned": false},
+    {"english": "try again", "spanish": "intentarlo de nuevo", "learned": false},
+    {"english": "hold on", "spanish": "espera", "learned": false},
+    {"english": "hang up", "spanish": "colgar", "learned": false},
+    {"english": "turn on", "spanish": "encender", "learned": false},
+    {"english": "turn off", "spanish": "apagar", "learned": false},
+    {"english": "write down", "spanish": "escribir", "learned": false},
+    {"english": "fill out", "spanish": "llenar", "learned": false},
+    {"english": "look for", "spanish": "buscar", "learned": false},
+    {"english": "find out", "spanish": "descubrir", "learned": false},
+    {"english": "figure out", "spanish": "resolver", "learned": false},
+    {"english": "check out", "spanish": "mirar / revisar", "learned": false},
+    {"english": "log in", "spanish": "iniciar sesión", "learned": false},
+    {"english": "log out", "spanish": "cerrar sesión", "learned": false},
+    {"english": "sign up", "spanish": "registrarse", "learned": false},
+    {"english": "cancel", "spanish": "cancelar", "learned": false},
+    {"english": "reschedule", "spanish": "reprogramar", "learned": false},
+    {"english": "postpone", "spanish": "posponer", "learned": false},
+    {"english": "confirm", "spanish": "confirmar", "learned": false},
+    {"english": "deny", "spanish": "negar", "learned": false},
+    {"english": "accept", "spanish": "aceptar", "learned": false},
+    {"english": "reject", "spanish": "rechazar", "learned": false},
+    {"english": "agree", "spanish": "estar de acuerdo", "learned": false},
+    {"english": "disagree", "spanish": "no estar de acuerdo", "learned": false},
+    {"english": "ask for", "spanish": "pedir", "learned": false},
+    {"english": "thank for", "spanish": "agradecer", "learned": false},
+    {"english": "apologize for", "spanish": "disculparse por", "learned": false},
+    {"english": "complain about", "spanish": "quejarse de", "learned": false},
+    {"english": "talk about", "spanish": "hablar sobre", "learned": false},
+    {"english": "think about", "spanish": "pensar en", "learned": false},
+    {"english": "worry about", "spanish": "preocuparse por", "learned": false},
+    {"english": "dream about", "spanish": "soñar con", "learned": false},
+    {"english": "care about", "spanish": "importar", "learned": false},
+    {"english": "laugh at", "spanish": "reírse de", "learned": false},
+    {"english": "stare at", "spanish": "mirar fijamente", "learned": false},
+    {"english": "point at", "spanish": "señalar", "learned": false},
+    {"english": "knock on", "spanish": "llamar a", "learned": false},
+    {"english": "wait for", "spanish": "esperar por", "learned": false},
+    {"english": "listen to", "spanish": "escuchar", "learned": false},
+    {"english": "reply to", "spanish": "responder a", "learned": false},
+    {"english": "react to", "spanish": "reaccionar a", "learned": false},
+    {"english": "adapt to", "spanish": "adaptarse a", "learned": false},
+    {"english": "belong to", "spanish": "pertenecer a", "learned": false},
+    {"english": "contribute to", "spanish": "contribuir a", "learned": false},
+    {"english": "lead to", "spanish": "llevar a", "learned": false},
+    {"english": "refer to", "spanish": "referirse a", "learned": false},
+    {"english": "relate to", "spanish": "relacionarse con", "learned": false},
+    {"english": "stick to", "spanish": "apegarse a", "learned": false},
+    {"english": "object to", "spanish": "oponerse a", "learned": false},
+    {"english": "look like", "spanish": "parecerse a", "learned": false},
+    {"english": "sound like", "spanish": "sonar como", "learned": false},
+    {"english": "feel like", "spanish": "sentirse como", "learned": false},
+    {"english": "act like", "spanish": "actuar como", "learned": false},
+    {"english": "work as", "spanish": "trabajar como", "learned": false},
+    {"english": "serve as", "spanish": "servir como", "learned": false},
+    {"english": "function as", "spanish": "funcionar como", "learned": false},
+    {"english": "count as", "spanish": "contar como", "learned": false},
+    {"english": "qualify as", "spanish": "calificar como", "learned": false},
+    {"english": "result in", "spanish": "resultar en", "learned": false},
+    {"english": "consist of", "spanish": "consistir en", "learned": false},
+    {"english": "depend on", "spanish": "depender de", "learned": false},
+    {"english": "focus on", "spanish": "enfocarse en", "learned": false},
+    {"english": "insist on", "spanish": "insistir en", "learned": false},
+    {"english": "rely on", "spanish": "confiar en", "learned": false},
+    {"english": "base on", "spanish": "basarse en", "learned": false},
+    {"english": "center on", "spanish": "centrarse en", "learned": false},
+    {"english": "comment on", "spanish": "comentar sobre", "learned": false},
+    {"english": "decide on", "spanish": "decidir sobre", "learned": false},
+    {"english": "elaborate on", "spanish": "detallar sobre", "learned": false},
+    {"english": "expand on", "spanish": "ampliar sobre", "learned": false},
+    {"english": "reflect on", "spanish": "reflexionar sobre", "learned": false},
+    {"english": "speculate about", "spanish": "especular sobre", "learned": false},
+    {"english": "wonder about", "spanish": "preguntarse sobre", "learned": false},
+    {"english": "argue about", "spanish": "discutir sobre", "learned": false},
+    {"english": "debate about", "spanish": "debatir sobre", "learned": false},
+    {"english": "vote for", "spanish": "votar por", "learned": false},
+    {"english": "vote against", "spanish": "votar en contra", "learned": false},
+    {"english": "apply for", "spanish": "solicitar", "learned": false},
+    {"english": "pay for", "spanish": "pagar por", "learned": false},
+    {"english": "account for", "spanish": "explicar", "learned": false},
+    {"english": "allow for", "spanish": "permitir", "learned": false},
+    {"english": "hope for", "spanish": "esperar", "learned": false},
+    {"english": "long for", "spanish": "anhelar", "learned": false},
+    {"english": "search for", "spanish": "buscar", "learned": false},
+    {"english": "strive for", "spanish": "esforzarse por", "learned": false},
+    {"english": "aim for", "spanish": "apuntar a", "learned": false},
+    {"english": "settle for", "spanish": "conformarse con", "learned": false},
+    {"english": "go for", "spanish": "optar por", "learned": false},
+    {"english": "look forward to", "spanish": "esperar con ganas", "learned": false},
+    {"english": "get used to", "spanish": "acostumbrarse a", "learned": false},
+    {"english": "look up to", "spanish": "admirar", "learned": false},
+    {"english": "put up with", "spanish": "tolerar", "learned": false},
+    {"english": "come across", "spanish": "tropezar con", "learned": false},
+    {"english": "run into", "spanish": "encontrarse con", "learned": false},
+    {"english": "end up", "spanish": "terminar", "learned": false},
+    {"english": "give in", "spanish": "ceder", "learned": false},
+    {"english": "keep up", "spanish": "mantener", "learned": false},
+    {"english": "look after", "spanish": "cuidar", "learned": false},
+    {"english": "take care of", "spanish": "ocuparse de", "learned": false},
+    {"english": "get along with", "spanish": "llevarse bien con", "learned": false},
+    {"english": "break down", "spanish": "descomponerse", "learned": false},
+    {"english": "set up", "spanish": "configurar", "learned": false},
+    {"english": "show up", "spanish": "aparecer", "learned": false},
+    {"english": "wake up", "spanish": "despertarse", "learned": false},
+    {"english": "speed up", "spanish": "acelerar", "learned": false},
+    {"english": "slow down", "spanish": "ralentizar", "learned": false},
+    {"english": "shut up", "spanish": "callarse", "learned": false},
+    {"english": "cheer up", "spanish": "animarse", "learned": false},
+    {"english": "give up", "spanish": "rendirse", "learned": false},
+    {"english": "get over", "spanish": "superar", "learned": false},
+    {"english": "move on", "spanish": "seguir adelante", "learned": false},
+    {"english": "turn down", "spanish": "rechazar", "learned": false},
+    {"english": "bring up", "spanish": "mencionar", "learned": false},
+    {"english": "hang out", "spanish": "pasar el rato", "learned": false},
+    {"english": "catch up", "spanish": "ponerse al día", "learned": false},
+    {"english": "drop by", "spanish": "pasar por", "learned": false},
+    {"english": "stop by", "spanish": "pasar por", "learned": false},
+    {"english": "check in", "spanish": "registrar entrada", "learned": false},
+    {"english": "check out", "spanish": "salir", "learned": false},
+    {"english": "run out", "spanish": "agotarse", "learned": false},
+    {"english": "run away", "spanish": "escapar", "learned": false},
+    {"english": "stand out", "spanish": "destacar", "learned": false},
+    {"english": "fit in", "spanish": "integrarse", "learned": false},
+    {"english": "mess up", "spanish": "estropear", "learned": false},
+    {"english": "clean up", "spanish": "limpiar", "learned": false},
+    {"english": "wake up", "spanish": "despertarse", "learned": false},
+    {"english": "get up", "spanish": "levantarse", "learned": false},
+    {"english": "sit down", "spanish": "sentarse", "learned": false},
+    {"english": "stand up", "spanish": "pararse", "learned": false},
+    {"english": "turn around", "spanish": "girar", "learned": false},
+    {"english": "look around", "spanish": "mirar alrededor", "learned": false},
+    {"english": "walk around", "spanish": "caminar alrededor", "learned": false},
+    {"english": "drive around", "spanish": "manejar alrededor", "learned": false},
+    {"english": "hang around", "spanish": "quedarse por ahí", "learned": false},
+    {"english": "show around", "spanish": "mostrar", "learned": false},
+    {"english": "try out", "spanish": "probar", "learned": false},
+    {"english": "work out", "spanish": "ejercicio", "learned": false},
+    {"english": "figure out", "spanish": "resolver", "learned": false},
+    {"english": "find out", "spanish": "descubrir", "learned": false},
+    {"english": "point out", "spanish": "señalar", "learned": false},
+    {"english": "bring up", "spanish": "mencionar", "learned": false},
+    {"english": "grow up", "spanish": "crecer", "learned": false},
+    {"english": "break up", "spanish": "terminar", "learned": false},
+    {"english": "make up", "spanish": "inventar", "learned": false},
+    {"english": "wake up", "spanish": "despertarse", "learned": false},
+    {"english": "get up", "spanish": "levantarse", "learned": false},
+    {"english": "sit down", "spanish": "sentarse", "learned": false},
+    {"english": "stand up", "spanish": "pararse", "learned": false},
+    {"english": "turn around", "spanish": "girar", "learned": false},
+    {"english": "look around", "spanish": "mirar alrededor", "learned": false},
+    {"english": "walk around", "spanish": "caminar alrededor", "learned": false},
+    {"english": "drive around", "spanish": "manejar alrededor", "learned": false},
+    {"english": "hang around", "spanish": "quedarse por ahí", "learned": false},
+    {"english": "show around", "spanish": "mostrar", "learned": false},
+    {"english": "try out", "spanish": "probar", "learned": false},
+    {"english": "work out", "spanish": "ejercicio", "learned": false},
+    {"english": "figure out", "spanish": "resolver", "learned": false},
+    {"english": "find out", "spanish": "descubrir", "learned": false},
+    {"english": "point out", "spanish": "señalar", "learned": false},
+    {"english": "bring up", "spanish": "mencionar", "learned": false},
+    {"english": "grow up", "spanish": "crecer", "learned": false},
+    {"english": "break up", "spanish": "terminar", "learned": false},
+    {"english": "make up", "spanish": "inventar", "learned": false},
+    {"english": "time", "spanish": "tiempo", "learned": false},
+    {"english": "person", "spanish": "persona", "learned": false},
+    {"english": "place", "spanish": "lugar", "learned": false},
+    {"english": "thing", "spanish": "cosa", "learned": false},
+    {"english": "way", "spanish": "manera", "learned": false},
+    {"english": "day", "spanish": "día", "learned": false},
+    {"english": "week", "spanish": "semana", "learned": false},
+    {"english": "month", "spanish": "mes", "learned": false},
+    {"english": "year", "spanish": "año", "learned": false},
+    {"english": "minute", "spanish": "minuto", "learned": false},
+    {"english": "hour", "spanish": "hora", "learned": false},
+    {"english": "second", "spanish": "segundo", "learned": false},
+    {"english": "moment", "spanish": "momento", "learned": false},
+    {"english": "now", "spanish": "ahora", "learned": false},
+    {"english": "soon", "spanish": "pronto", "learned": false},
+    {"english": "later", "spanish": "después", "learned": false},
+    {"english": "early", "spanish": "temprano", "learned": false},
+    {"english": "late", "spanish": "tarde", "learned": false},
+    {"english": "always", "spanish": "siempre", "learned": false},
+    {"english": "never", "spanish": "nunca", "learned": false},
+    {"english": "sometimes", "spanish": "a veces", "learned": false},
+    {"english": "often", "spanish": "a menudo", "learned": false},
+    {"english": "usually", "spanish": "usualmente", "learned": false},
+    {"english": "already", "spanish": "ya", "learned": false},
+    {"english": "still", "spanish": "todavía", "learned": false},
+    {"english": "just", "spanish": "solo", "learned": false},
+    {"english": "only", "spanish": "solo", "learned": false},
+    {"english": "even", "spanish": "incluso", "learned": false},
+    {"english": "also", "spanish": "también", "learned": false},
+    {"english": "too", "spanish": "también", "learned": false},
+    {"english": "either", "spanish": "tampoco", "learned": false},
+    {"english": "both", "spanish": "ambos", "learned": false},
+    {"english": "neither", "spanish": "ninguno", "learned": false},
+    {"english": "all", "spanish": "todos", "learned": false},
+    {"english": "none", "spanish": "ninguno", "learned": false},
+    {"english": "some", "spanish": "algunos", "learned": false},
+    {"english": "any", "spanish": "cualquier", "learned": false},
+    {"english": "few", "spanish": "pocos", "learned": false},
+    {"english": "many", "spanish": "muchos", "learned": false},
+    {"english": "most", "spanish": "la mayoría", "learned": false},
+    {"english": "other", "spanish": "otro", "learned": false},
+    {"english": "another", "spanish": "otro", "learned": false},
+    {"english": "same", "spanish": "mismo", "learned": false},
+    {"english": "different", "spanish": "diferente", "learned": false},
+    {"english": "better", "spanish": "mejor", "learned": false},
+    {"english": "best", "spanish": "el mejor", "learned": false},
+    {"english": "worse", "spanish": "peor", "learned": false},
+    {"english": "worst", "spanish": "el peor", "learned": false},
+    {"english": "more", "spanish": "más", "learned": false},
+    {"english": "less", "spanish": "menos", "learned": false},
+    {"english": "enough", "spanish": "suficiente", "learned": false},
+    {"english": "little", "spanish": "poco", "learned": false},
+    {"english": "much", "spanish": "mucho", "learned": false},
+    {"english": "very", "spanish": "muy", "learned": false},
+    {"english": "really", "spanish": "realmente", "learned": false},
+    {"english": "quite", "spanish": "bastante", "learned": false},
+    {"english": "almost", "spanish": "casi", "learned": false},
+    {"english": "about", "spanish": "acerca de", "learned": false},
+    {"english": "around", "spanish": "alrededor", "learned": false},
+    {"english": "between", "spanish": "entre", "learned": false},
+    {"english": "through", "spanish": "a través de", "learned": false},
+    {"english": "during", "spanish": "durante", "learned": false},
+    {"english": "before", "spanish": "antes", "learned": false},
+    {"english": "after", "spanish": "después", "learned": false},
+    {"english": "since", "spanish": "desde", "learned": false},
+    {"english": "until", "spanish": "hasta", "learned": false},
+    {"english": "while", "spanish": "mientras", "learned": false},
+    {"english": "because", "spanish": "porque", "learned": false},
+    {"english": "if", "spanish": "si", "learned": false},
+    {"english": "then", "spanish": "entonces", "learned": false},
+    {"english": "when", "spanish": "cuando", "learned": false},
+    {"english": "where", "spanish": "dónde", "learned": false},
+    {"english": "why", "spanish": "por qué", "learned": false},
+    {"english": "how", "spanish": "cómo", "learned": false},
+    {"english": "who", "spanish": "quién", "learned": false},
+    {"english": "what", "spanish": "qué", "learned": false},
+    {"english": "which", "spanish": "cuál", "learned": false},
+    {"english": "whose", "spanish": "de quién", "learned": false},
+    {"english": "something", "spanish": "algo", "learned": false},
+    {"english": "nothing", "spanish": "nada", "learned": false},
+    {"english": "everything", "spanish": "todo", "learned": false},
+    {"english": "anything", "spanish": "cualquier cosa", "learned": false},
+    {"english": "someone", "spanish": "alguien", "learned": false},
+    {"english": "no one", "spanish": "nadie", "learned": false},
+    {"english": "everyone", "spanish": "todos", "learned": false},
+    {"english": "anyone", "spanish": "alguien", "learned": false},
+    {"english": "somewhere", "spanish": "en algún lugar", "learned": false},
+    {"english": "nowhere", "spanish": "en ninguna parte", "learned": false},
+    {"english": "everywhere", "spanish": "en todas partes", "learned": false},
+    {"english": "anywhere", "spanish": "en cualquier lugar", "learned": false},
+    {"english": "ask", "spanish": "preguntar", "learned": false},
+    {"english": "answer", "spanish": "responder", "learned": false},
+    {"english": "say", "spanish": "decir", "learned": false},
+    {"english": "tell", "spanish": "contar", "learned": false},
+    {"english": "talk", "spanish": "hablar", "learned": false},
+    {"english": "speak", "spanish": "hablar", "learned": false},
+    {"english": "listen", "spanish": "escuchar", "learned": false},
+    {"english": "hear", "spanish": "oír", "learned": false},
+    {"english": "see", "spanish": "ver", "learned": false},
+    {"english": "look", "spanish": "mirar", "learned": false},
+    {"english": "watch", "spanish": "observar", "learned": false},
+    {"english": "find", "spanish": "encontrar", "learned": false},
+    {"english": "lose", "spanish": "perder", "learned": false},
+    {"english": "keep", "spanish": "mantener", "learned": false},
+    {"english": "give", "spanish": "dar", "learned": false},
+    {"english": "take", "spanish": "tomar", "learned": false},
+    {"english": "bring", "spanish": "traer", "learned": false},
+    {"english": "send", "spanish": "enviar", "learned": false},
+    {"english": "receive", "spanish": "recibir", "learned": false},
+    {"english": "buy", "spanish": "comprar", "learned": false},
+    {"english": "sell", "spanish": "vender", "learned": false},
+    {"english": "pay", "spanish": "pagar", "learned": false},
+    {"english": "spend", "spanish": "gastar", "learned": false},
+    {"english": "save", "spanish": "ahorrar", "learned": false},
+    {"english": "borrow", "spanish": "pedir prestado", "learned": false},
+    {"english": "lend", "spanish": "prestar", "learned": false},
+    {"english": "need", "spanish": "necesitar", "learned": false},
+    {"english": "want", "spanish": "querer", "learned": false},
+    {"english": "like", "spanish": "gustar", "learned": false},
+    {"english": "love", "spanish": "amar", "learned": false},
+    {"english": "hate", "spanish": "odiar", "learned": false},
+    {"english": "prefer", "spanish": "preferir", "learned": false},
+    {"english": "choose", "spanish": "elegir", "learned": false},
+    {"english": "decide", "spanish": "decidir", "learned": false},
+    {"english": "try", "spanish": "intentar", "learned": false},
+    {"english": "start", "spanish": "empezar", "learned": false},
+    {"english": "finish", "spanish": "terminar", "learned": false},
+    {"english": "continue", "spanish": "continuar", "learned": false},
+    {"english": "stop", "spanish": "detener", "learned": false},
+    {"english": "wait", "spanish": "esperar", "learned": false},
+    {"english": "help", "spanish": "ayudar", "learned": false},
+    {"english": "understand", "spanish": "entender", "learned": false},
+    {"english": "know", "spanish": "saber", "learned": false},
+    {"english": "think", "spanish": "pensar", "learned": false},
+    {"english": "believe", "spanish": "creer", "learned": false},
+    {"english": "hope", "spanish": "esperar", "learned": false},
+    {"english": "wish", "spanish": "desear", "learned": false},
+    {"english": "remember", "spanish": "recordar", "learned": false},
+    {"english": "forget", "spanish": "olvidar", "learned": false},
+    {"english": "learn", "spanish": "aprender", "learned": false},
+    {"english": "teach", "spanish": "enseñar", "learned": false},
+    {"english": "read", "spanish": "leer", "learned": false},
+    {"english": "write", "spanish": "escribir", "learned": false},
+    {"english": "count", "spanish": "contar", "learned": false},
+    {"english": "add", "spanish": "sumar", "learned": false},
+    {"english": "subtract", "spanish": "restar", "learned": false},
+    {"english": "multiply", "spanish": "multiplicar", "learned": false},
+    {"english": "divide", "spanish": "dividir", "learned": false},
+    {"english": "measure", "spanish": "medir", "learned": false},
+    {"english": "weigh", "spanish": "pesar", "learned": false},
+    {"english": "compare", "spanish": "comparar", "learned": false},
+    {"english": "change", "spanish": "cambiar", "learned": false},
+    {"english": "improve", "spanish": "mejorar", "learned": false},
+    {"english": "fix", "spanish": "arreglar", "learned": false},
+    {"english": "break", "spanish": "romper", "learned": false},
+    {"english": "open", "spanish": "abrir", "learned": false},
+    {"english": "close", "spanish": "cerrar", "learned": false},
+    {"english": "turn", "spanish": "girar", "learned": false},
+    {"english": "move", "spanish": "mover", "learned": false},
+    {"english": "stay", "spanish": "quedarse", "learned": false},
+    {"english": "arrive", "spanish": "llegar", "learned": false},
+    {"english": "leave", "spanish": "salir", "learned": false},
+    {"english": "return", "spanish": "regresar", "learned": false},
+    {"english": "go", "spanish": "ir", "learned": false},
+    {"english": "come", "spanish": "venir", "learned": false},
+    {"english": "walk", "spanish": "caminar", "learned": false},
+    {"english": "run", "spanish": "correr", "learned": false},
+    {"english": "jump", "spanish": "saltar", "learned": false},
+    {"english": "sit", "spanish": "sentarse", "learned": false},
+    {"english": "stand", "spanish": "pararse", "learned": false},
+    {"english": "lie", "spanish": "mentir", "learned": false},
+    {"english": "sleep", "spanish": "dormir", "learned": false},
+    {"english": "wake", "spanish": "despertar", "learned": false},
+    {"english": "eat", "spanish": "comer", "learned": false},
+    {"english": "drink", "spanish": "beber", "learned": false},
+    {"english": "cook", "spanish": "cocinar", "learned": false},
+    {"english": "clean", "spanish": "limpiar", "learned": false},
+    {"english": "wash", "spanish": "lavar", "learned": false},
+    {"english": "dry", "spanish": "secar", "learned": false},
+    {"english": "iron", "spanish": "planchar", "learned": false},
+    {"english": "fold", "spanish": "doblar", "learned": false},
+    {"english": "pack", "spanish": "empacar", "learned": false},
+    {"english": "unpack", "spanish": "desempacar", "learned": false},
+    {"english": "carry", "spanish": "llevar", "learned": false},
+    {"english": "hold", "spanish": "sostener", "learned": false},
+    {"english": "push", "spanish": "empujar", "learned": false},
+    {"english": "pull", "spanish": "tirar", "learned": false},
+    {"english": "lift", "spanish": "levantar", "learned": false},
+    {"english": "drop", "spanish": "dejar caer", "learned": false},
+    {"english": "throw", "spanish": "lanzar", "learned": false},
+    {"english": "catch", "spanish": "atrapar", "learned": false},
+    {"english": "hit", "spanish": "golpear", "learned": false},
+    {"english": "kick", "spanish": "patear", "learned": false},
+    {"english": "bite", "spanish": "morder", "learned": false},
+    {"english": "kiss", "spanish": "besar", "learned": false},
+    {"english": "hug", "spanish": "abrazar", "learned": false},
+    {"english": "shake", "spanish": "agitar", "learned": false},
+    {"english": "wave", "spanish": "saludar con la mano", "learned": false},
+    {"english": "nod", "spanish": "asentir", "learned": false},
+    {"english": "smile", "spanish": "sonreír", "learned": false},
+    {"english": "laugh", "spanish": "reír", "learned": false},
+    {"english": "cry", "spanish": "llorar", "learned": false},
+    {"english": "shout", "spanish": "gritar", "learned": false},
+    {"english": "whisper", "spanish": "susurrar", "learned": false},
+    {"english": "sing", "spanish": "cantar", "learned": false},
+    {"english": "dance", "spanish": "bailar", "learned": false},
+    {"english": "play", "spanish": "jugar", "learned": false},
+    {"english": "win", "spanish": "ganar", "learned": false},
+    {"english": "lose", "spanish": "perder", "learned": false},
+    {"english": "compete", "spanish": "competir", "learned": false},
+    {"english": "challenge", "spanish": "desafiar", "learned": false},
+    {"english": "support", "spanish": "apoyar", "learned": false},
+    {"english": "encourage", "spanish": "alentar", "learned": false},
+    {"english": "motivate", "spanish": "motivar", "learned": false},
+    {"english": "inspire", "spanish": "inspirar", "learned": false},
+    {"english": "respect", "spanish": "respetar", "learned": false},
+    {"english": "trust", "spanish": "confiar", "learned": false},
+    {"english": "forgive", "spanish": "perdonar", "learned": false},
+    {"english": "thank", "spanish": "agradecer", "learned": false},
+    {"english": "apologize", "spanish": "disculparse", "learned": false},
+    {"english": "invite", "spanish": "invitar", "learned": false},
+    {"english": "introduce", "spanish": "presentar", "learned": false},
+    {"english": "meet", "spanish": "conocer", "learned": false},
+    {"english": "greet", "spanish": "saludar", "learned": false},
+    {"english": "farewell", "spanish": "despedida", "learned": false},
+    {"english": "celebrate", "spanish": "celebrar", "learned": false},
+    {"english": "enjoy", "spanish": "disfrutar", "learned": false},
+    {"english": "relax", "spanish": "relajarse", "learned": false},
+    {"english": "rest", "spanish": "descansar", "learned": false},
+    {"english": "exercise", "spanish": "ejercicio", "learned": false},
+    {"english": "stretch", "spanish": "estirar", "learned": false},
+    {"english": "breathe", "spanish": "respirar", "learned": false},
+    {"english": "meditate", "spanish": "meditar", "learned": false},
+    {"english": "pray", "spanish": "rezar", "learned": false},
+    {"english": "dream", "spanish": "soñar", "learned": false},
+    {"english": "vision", "spanish": "visión", "learned": false},
+    {"english": "future", "spanish": "futuro", "learned": false}
 ]
