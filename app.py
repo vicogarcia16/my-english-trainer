@@ -51,8 +51,11 @@ new_english = st.sidebar.text_input("Palabra en inglés:")
 new_spanish = st.sidebar.text_input("Traducción en español:")
 if st.sidebar.button("Agregar"):
     if new_english and new_spanish:
-        add_word(new_english, new_spanish)
-        st.sidebar.success("✅ Palabra agregada!")
+        if any(word['english'].lower() == new_english.lower() for word in load_words()):
+            st.sidebar.warning("⚠️ La palabra ya existe en la lista.")
+        else:
+            add_word(new_english, new_spanish)
+            st.sidebar.success("✅ Palabra agregada!")
     else:
         st.sidebar.warning("⚠️ Completa ambos campos.")
 
